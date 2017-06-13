@@ -81,6 +81,10 @@ public class Prescription {
 
     public void setUserRightMappings(List<PrescriptionUserRightMapping> userRightMappings) {
         this.userRightMappings = userRightMappings;
+
+        // This will reset usernameVsRights
+        this.usernameVsRights = null;
+        getUsernameVsRights();
     }
 
     public Map<String, PrescriptionUserRightMapping> getUsernameVsRights() {
