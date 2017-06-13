@@ -1,5 +1,5 @@
 # Basic_Approval_System
-This is basic backend (login UI + API) for approval system using Spring Security + Mongo.
+This is basic backend (login UI + API) for approval system using Spring Security + Mongo. I have used Doctor,Pharmasict and Patient system for prescription sharing demonstration.
 
 ## System Requirements:
 1. Java
