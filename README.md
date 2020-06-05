@@ -56,6 +56,3 @@ This will approve pending prescription detail with name "JAYESH_PRESCRIPTION_1" 
 
 5. 'GET' 'http://localhost:8080/prescriptions/details?prescriptionTitle=JAYESH_PRESCRIPTION_1'  
 If the request is approved successfully this will return detailed prescription else it will throw unauthorized error.  
-
-## Stats
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jayeshathila.Basic_Approval_System)	![code-size](https://img.shields.io/github/languages/code-size/jayeshathila/Basic_Approval_System)
